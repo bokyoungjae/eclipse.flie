@@ -69,11 +69,10 @@ RPGGame/
 ```
 ---
 ## 클래스 다이어그램
----
-<img width="864" height="811" alt="image" src="https://github.com/user-attachments/assets/0e207b99-e8ff-4e1b-91c8-c359e62aadc5" />
----
-색상종류예시🔵 파랑 계열일반 클래스UserData, CharacterData, Monster🟢 초록 계열«enumeration»CharacterClass, Rarity, ItemType🟣 보라 계열«utility»SaveSystem, ItemDatabase, MonsterFactory🟡 노랑 계열Entry / HUBMain, GameScreen
----
+<img width="360" height="185" alt="image" src="https://github.com/user-attachments/assets/4820d7a3-825d-48cc-a9cc-64986b6e3270" />
+
+<img width="864" height="811" alt="image" src="https://github.com/user-attachments/assets/0e207b99-e8ff-4e1b-91c8-c359e62aadc5" />---
+
 ### 🔐 회원 시스템
 - 회원가입 (아이디 / 비밀번호 / 이메일)
 - 로그인 후 **자동 저장** (홈 디렉토리에 저장)
