@@ -93,7 +93,6 @@ RPGGame/
 - 레벨에 따라 몬스터 자동 강화
 - 일반 / **강화(Elite)** 몬스터 출현
 - 드롭: 장비, 포션, 골드 (확률적)
-![Uploading 12.gif…]()
 <img width="797" height="547" alt="11" src="https://github.com/user-attachments/assets/7df5da7a-4448-486e-95fb-bbb15d025b2b" />
 
 
