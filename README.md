@@ -18,9 +18,9 @@ RPG 게임의 핵심 요소인 **캐릭터 성장**, **전투**, **아이템 수
 ## 📅 프로젝트 기간
 
 **2026.5.11~5.14
-노션주소1: https://clean-glove-b4f.notion.site/36039234e2ca80f9bb48f8f07251c648?source=copy_link
-
-노션주소2: https://clean-glove-b4f.notion.site/36039234e2ca80ab935ceb7c4cdec39f?source=copy_link
+코드 사용 이유: https://clean-glove-b4f.notion.site/36039234e2ca80f9bb48f8f07251c648?source=copy_link
+ 코드별 설명: 
+ https://clean-glove-b4f.notion.site/36039234e2ca80ab935ceb7c4cdec39f?source=copy_link
 ---
 
 ## 🚀 Eclipse 임포트 방법
