@@ -73,6 +73,8 @@ RPGGame/
 - 신규 유저: 닉네임 + 캐릭터 선택
 
 ---
+## 클래스 다이어리 
+
 
 ### 🧙 캐릭터 (5종)
 
@@ -83,6 +85,9 @@ RPGGame/
 | 🏹 궁수 | 균형형, 빠른 속도 |
 | 🛡️ 성기사 | 고방어, 안정형 |
 | 🗡️ 암살자 | 최고속도, 고공격 |
+<img width="1121" height="630" alt="12" src="https://github.com/user-attachments/assets/9722e8f4-3ab4-48bc-a405-b4dc8ca8d4b5" />
+![Uploading 12.gif…]()
+<img width="797" height="547" alt="11" src="https://github.com/user-attachments/assets/7df5da7a-4448-486e-95fb-bbb15d025b2b" />
 
 ---
 
@@ -90,6 +95,7 @@ RPGGame/
 - 레벨에 따라 몬스터 자동 강화
 - 일반 / **강화(Elite)** 몬스터 출현
 - 드롭: 장비, 포션, 골드 (확률적)
+![Uploading 12.gif…]()
 
 ---
 
@@ -97,12 +103,14 @@ RPGGame/
 - **5의 배수마다 미니보스** 등장
 - 스테이지별 몬스터 점진적 강화
 - 클리어한 층은 자동 저장
+<img width="975" height="664" alt="13" src="https://github.com/user-attachments/assets/5f0a1c1e-44f6-4d55-bcc8-985f0890f15c" />
 
 ---
 
 ### 🏪 상점
 - 던전 드롭 불가 **희귀 아이템** 판매
 - Epic / Legendary 등급 장비 구매 가능
+<img width="1130" height="649" alt="14" src="https://github.com/user-attachments/assets/81497018-b9dc-4bff-9141-b74e8b952161" />
 
 ---
 
@@ -110,6 +118,7 @@ RPGGame/
 - 장비 착용 / 해제 (5슬롯)
 - 포션 즉시 사용
 - 아이템 버리기
+<img width="1130" height="649" alt="15" src="https://github.com/user-attachments/assets/2e7ed73d-e363-4f18-92cd-ce416d4055a4" />
 
 ---
 
