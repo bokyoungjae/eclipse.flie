@@ -65,6 +65,10 @@ RPGGame/
 ---
 ## 🕹 주요 기능
 <img width="926" height="813" alt="image" src="https://github.com/user-attachments/assets/20c8a9da-65c0-43dd-86a2-43421766ce08" />
+<details>
+  <summary>🔍 클래스 다이어리 크게 보기 (클릭)</summary>
+  <img src="image_cb05c5.png" width="100%">
+</details>
 
 ### 🔐 회원 시스템
 - 회원가입 (아이디 / 비밀번호 / 이메일)
