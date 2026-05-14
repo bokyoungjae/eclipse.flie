@@ -1,5 +1,8 @@
- ⚔️ Chronicles of Destiny (운명의 연대기)
-
+ ⚔️ Chronicles of Destiny (미니던전 프로젝트) ⚔️ 
+ 
+|:----:|:-----|
+| Java | 11 이상 (Java 17 권장) |
+| IDE | Eclipse IDE (Java EE 또는 Java Developer) |
 
 
 
@@ -133,12 +136,3 @@ RPGGame/
 ```
 ~/RPGGameSave/users.dat   ← 자동 생성
 ```
-
----
-
-## ⚙️ 요구사항
-
-| 항목 | 내용 |
-|:----:|:-----|
-| Java | 11 이상 (Java 17 권장) |
-| IDE | Eclipse IDE (Java EE 또는 Java Developer) |
