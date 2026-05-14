@@ -86,17 +86,15 @@ RPGGame/
 | 🏹 궁수 | 균형형, 빠른 속도 |
 | 🛡️ 성기사 | 고방어, 안정형 |
 | 🗡️ 암살자 | 최고속도, 고공격 |
-<img width="1121" height="630" alt="12" src="https://github.com/user-attachments/assets/9722e8f4-3ab4-48bc-a405-b4dc8ca8d4b5" />
 
+<img width="797" height="547" alt="11" src="https://github.com/user-attachments/assets/7df5da7a-4448-486e-95fb-bbb15d025b2b" />
 ---
 
 ### ⚔️ 던전
 - 레벨에 따라 몬스터 자동 강화
 - 일반 / **강화(Elite)** 몬스터 출현
 - 드롭: 장비, 포션, 골드 (확률적)
-<img width="797" height="547" alt="11" src="https://github.com/user-attachments/assets/7df5da7a-4448-486e-95fb-bbb15d025b2b" />
-
-
+<img width="1121" height="630" alt="12" src="https://github.com/user-attachments/assets/9722e8f4-3ab4-48bc-a405-b4dc8ca8d4b5" />
 
 ---
 
