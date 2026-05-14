@@ -1,9 +1,8 @@
  ⚔️ Chronicles of Destiny (미니던전 프로젝트) ⚔️ 
  
-|:----:|:-----|
+
 | Java | 11 이상 (Java 17 권장) |
 | IDE | Eclipse IDE (Java EE 또는 Java Developer) |
-
 
 
 
