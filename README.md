@@ -25,6 +25,7 @@ RPG 게임의 핵심 요소인 **캐릭터 성장**, **전투**, **아이템 수
 
 코드별 설명: https://clean-glove-b4f.notion.site/36039234e2ca80ab935ceb7c4cdec39f?source=copy_link
 
+클래스 다이어그램 설명:https://clean-glove-b4f.notion.site/Chronicles-of-Destiny-36039234e2ca808ea6b1e156969b4b4a?source=copy_link
 
 ## 🚀 Eclipse 임포트 방법
 
