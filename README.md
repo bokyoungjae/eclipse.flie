@@ -65,18 +65,7 @@ RPGGame/
 ---
 ## 🕹 주요 기능
 
-classDiagram
-    class Item {
-        -name: String
-        -rarity: Rarity
-        -itemType: ItemType
-    }
-    class ItemDatabase {
-        <<utility>>
-        -DROP_POOL: List
-        +getItem(id): Item
-    }
-    ItemDatabase --> Item : "creates"
+
  <img width="926" height="813" alt="image" src="https://github.com/user-attachments/assets/20c8a9da-65c0-43dd-86a2-43421766ce08" />
 
 ### 🔐 회원 시스템
