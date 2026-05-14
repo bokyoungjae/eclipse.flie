@@ -1,4 +1,4 @@
-[class_diagram (3).html](https://github.com/user-attachments/files/27737514/class_diagram.3.html)# ⚔️ Chronicles of Destiny (운명의 연대기)
+ ⚔️ Chronicles of Destiny (운명의 연대기)
 
 
 
@@ -18,7 +18,9 @@ RPG 게임의 핵심 요소인 **캐릭터 성장**, **전투**, **아이템 수
 ## 📅 프로젝트 기간
 
 **2026.5.11~5.14
+https://clean-glove-b4f.notion.site/36039234e2ca80f9bb48f8f07251c648?source=copy_link
 
+https://clean-glove-b4f.notion.site/36039234e2ca80ab935ceb7c4cdec39f?source=copy_link
 ---
 
 ## 🚀 Eclipse 임포트 방법
@@ -30,8 +32,7 @@ RPG 게임의 핵심 요소인 **캐릭터 성장**, **전투**, **아이템 수
 4. Finish 클릭
 5. Main.java 우클릭 → Run As > Java Application
 ```
-https://clean-glove-b4f.notion.site/36039234e2ca80f9bb48f8f07251c648?source=copy_link
-https://clean-glove-b4f.notion.site/36039234e2ca80ab935ceb7c4cdec39f?source=copy_link
+
 ---
 
 ## 📁 프로젝트 구조
@@ -64,9 +65,10 @@ RPGGame/
 │           └── ShopScreen.java              ← 희귀 상점
 ```
 ---
-## 클래스 다이어리 
+## 클래스 다이어그램
 
-<img width="914" height="811" alt="image" src="https://github.com/user-attachments/assets/2c173f36-5be7-45e3-bc13-5ce4385b6c2a" />
+<img width="864" height="811" alt="image" src="https://github.com/user-attachments/assets/0e207b99-e8ff-4e1b-91c8-c359e62aadc5" />
+
 
 ### 🔐 회원 시스템
 - 회원가입 (아이디 / 비밀번호 / 이메일)
