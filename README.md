@@ -68,7 +68,8 @@ RPGGame/
   <summary>🔍 클래스 다이어리 크게 보기 (클릭)</summary>
  <img width="926" height="813" alt="image" src="https://github.com/user-attachments/assets/20c8a9da-65c0-43dd-86a2-43421766ce08" />
 </details>
-
+# 클릭하면 원본 크기로 확대됩니다
+[![클래스 다이어리](image_cb05c5.png)]<img width="926" height="813" alt="image" src="https://github.com/user-attachments/assets/20c8a9da-65c0-43dd-86a2-43421766ce08" />
 ### 🔐 회원 시스템
 - 회원가입 (아이디 / 비밀번호 / 이메일)
 - 로그인 후 **자동 저장** (홈 디렉토리에 저장)
