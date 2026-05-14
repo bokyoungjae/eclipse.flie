@@ -30,7 +30,8 @@ RPG 게임의 핵심 요소인 **캐릭터 성장**, **전투**, **아이템 수
 4. Finish 클릭
 5. Main.java 우클릭 → Run As > Java Application
 ```
-
+https://clean-glove-b4f.notion.site/36039234e2ca80f9bb48f8f07251c648?source=copy_link
+https://clean-glove-b4f.notion.site/36039234e2ca80ab935ceb7c4cdec39f?source=copy_link
 ---
 
 ## 📁 프로젝트 구조
