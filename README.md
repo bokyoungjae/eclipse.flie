@@ -4,8 +4,7 @@
 [Uploading 미니던전다이어그램.drawio…]()
 
 
-| Java | 11 이상 (Java 17 권장) |
-| IDE | Eclipse IDE (Java EE 또는 Java Developer) |
+java 21
 
 
 
@@ -76,6 +75,7 @@ RPGGame/
 <img width="360" height="185" alt="image" src="https://github.com/user-attachments/assets/4820d7a3-825d-48cc-a9cc-64986b6e3270" />
 
 <img width="864" height="811" alt="image" src="https://github.com/user-attachments/assets/0e207b99-e8ff-4e1b-91c8-c359e62aadc5" />---
+<img width="5792" height="6836" alt="image" src="https://github.com/user-attachments/assets/2675d659-ee94-40bc-bc4e-e8d1d3077e60" />
 
 ### 🔐 회원 시스템
 - 회원가입 (아이디 / 비밀번호 / 이메일)
